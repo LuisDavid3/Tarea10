@@ -213,7 +213,7 @@ function obtenerPrecio($nombreProducto)
     <a href="agregarP.php">Gestión Producto</a><br><br>
     <h1>Crear Factura</h1>
     <form action="agregarF.php" method="POST">
-        <label for="usuario">Nombre del Usuario:</label>
+        <label for="usuario">DNI del Usuario:</label>
         <input type="text" id="usuario" name="usuario" required>
         <br><br>
 

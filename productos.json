@@ -1,6 +1,16 @@
 [
     {
         "nombre": "Chocolate",
-        "precio": "2.2"
+        "precio": "2.20"
+    },
+    {
+        "id": "1",
+        "nombre": "Inca Kola",
+        "precio": "2.00"
+    },
+    {
+        "id": "2",
+        "nombre": "Paneton",
+        "precio": "5.00"
     }
 ]
