@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "usuario": "12121212",
+        "productos": [
+            {
+                "nombre": "Chocolate",
+                "cantidad": "2",
+                "precio": "2",
+                "total": 4
+            }
+        ],
+        "total": 4
+    },
+    {
+        "id": 2,
+        "usuario": "12121212",
+        "productos": [
+            {
+                "nombre": "Chocolate",
+                "cantidad": "2",
+                "precio": "2",
+                "total": 4
+            }
+        ],
+        "total": 4
+    },
+    {
+        "id": 3,
+        "usuario": "12121212",
+        "productos": [
+            {
+                "nombre": "Chocolate",
+                "cantidad": "2",
+                "precio": "2",
+                "total": 4
+            }
+        ],
+        "total": 4
+    }
+]
